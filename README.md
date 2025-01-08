@@ -45,7 +45,7 @@ The Online Currency Converter is a web-based application that allows users to ea
    - Use any HTTP server (e.g., VS Code's Live Server extension) to serve the files.
 
 ## 📷 Screenshots
-   ![could not load image 😥](assets\Screenshot.png)
+   ![could not load image 😥](https://github.com/developerAvic/Online-Currency-Converter/blob/a16c57b9c768e1a0758dc7a173cf710595732a40/assets/Screenshot.png)
    
 ## 🤝 Contributing
 1. Fork this repository
