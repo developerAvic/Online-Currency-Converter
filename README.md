@@ -63,6 +63,6 @@ git checkout -b feature-name
 
 
 ## 📜 License
- This project is free to use and copy.<br>
-    happy coding😊
+ This project is licensed under the MIT License.<br>
+ happy coding😊
     
