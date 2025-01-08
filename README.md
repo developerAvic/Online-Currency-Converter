@@ -25,10 +25,10 @@ The Online Currency Converter is a web-based application that allows users to ea
 
 ## 📁 Project Structure
    Online-Currency-Converter/<br>
-    ├── index.html # Main HTML file<br>
-    ├── style.css # Styling for the application<br>
-    ├── countryCodes.js # Contains currency-to-country mapping<br>
-    ├── script.js # Core JavaScript logic for conversion<br>
+    ├── index.html // Main HTML file<br>
+    ├── style.css // Styling for the application<br>
+    ├── countryCodes.js // Contains currency-to-country mapping<br>
+    ├── script.js // Core JavaScript logic for conversion<br>
 
 ## ⚙️ Tools and Technologies
    Frontend: HTML, CSS, JavaScript<br>
@@ -40,7 +40,7 @@ The Online Currency Converter is a web-based application that allows users to ea
    Get API Key:
 
    - Sign up at Exchange Rate API to obtain your free API key.
-   - Replace "YOUR_API_KEY" in app.js with your actual API key.
+   - Replace "YOUR_API_KEY" in script.js with your actual API key.
    - Run Locally:
    - Use any HTTP server (e.g., VS Code's Live Server extension) to serve the files.
 
