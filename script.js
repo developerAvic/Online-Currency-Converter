@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Set initial selections
         fromSelect.value = "USD";
-        toSelect.value = "INR";
+        toSelect.value = "EUR";
         updateFlag(fromSelect, fromFlag);
         updateFlag(toSelect, toFlag);
     };
