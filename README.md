@@ -46,6 +46,11 @@ The Online Currency Converter is a web-based application that allows users to ea
 
 ## 📷 Screenshots
    ![could not load image 😥](https://github.com/developerAvic/Online-Currency-Converter/blob/87e4a76e07924b11fd68f553e9e1951a2764bd2f/Screenshot.png)
+
+##🔗 Live Demo
+   Click here to access the live demo (https://developeravic.github.io/Online-Currency-Converter/).
+
+
    
 ## 🤝 Contributing
 1. Fork this repository
