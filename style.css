@@ -157,3 +157,14 @@ form button {
 .container {
   animation: fadeIn 0.5s ease-out;
 }
+
+form button {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%); /* Keeps it centered initially */
+}
+
+form button:hover {
+  transform: translateY(-6px) translateX(-50%); /* Increase the vertical shift to 6px */
+}
