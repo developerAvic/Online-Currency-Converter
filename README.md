@@ -2,7 +2,7 @@
 
 ## 📋 Project Description
 
-The Online Currency Converter is a web-based application that allows users to easily convert currencies using live exchange rates. It features dynamic flag updates, user-friendly inputs, and supports multiple currencies.
+The Online Currency Converter is a web-based application that allows users to easily convert currencies using live exchange rates.<br> It features dynamic flag updates, user-friendly inputs, and supports multiple currencies.
 
 ## 🌟 Features
 
@@ -24,17 +24,17 @@ The Online Currency Converter is a web-based application that allows users to ea
 3. Open the index.html file in your browser via a live server (e.g., VS Code Live Server) or any HTTP server.
 
 ## 📁 Project Structure
-   Online-Currency-Converter/
-   ├── index.html # Main HTML file
-   ├── style.css # Styling for the application
-   ├── countryCodes.js # Contains currency-to-country mapping
-   ├── script.js # Core JavaScript logic for conversion
+   Online-Currency-Converter/<br>
+    ├── index.html # Main HTML file<br>
+    ├── style.css # Styling for the application<br>
+    ├── countryCodes.js # Contains currency-to-country mapping<br>
+    ├── script.js # Core JavaScript logic for conversion<br>
 
 ## ⚙️ Tools and Technologies
-   Frontend: HTML, CSS, JavaScript
-   API: Exchange Rate API
-   Icons: Font Awesome for UI icons
-   Flags: Flags API for dynamic flag images
+   Frontend: HTML, CSS, JavaScript<br>
+   API: Exchange Rate API<br>
+   Icons: Font Awesome for UI icons<br>
+   Flags: Flags API for dynamic flag images<br>
 
 ## 🛠️ Setup and Configuration
    Get API Key:
@@ -48,14 +48,18 @@ The Online Currency Converter is a web-based application that allows users to ea
    ![could not load image 😥](assets\Screenshot.png)
    
 ## 🤝 Contributing
-    1. Fork this repository.
-    2. Create a new branch for your feature or fix.
-    bash```
-    git checkout -b feature-name
-    ```
-    3.Commit your changes and push your branch.
-    4.Submit a pull request.
+1. Fork this repository
+2. Create a new branch for your feature or fix.
+
+```
+git checkout -b feature-name
+```
+    
+3. Commit your changes and push your branch.
+4. Submit a pull request.
+
 
 ## 📜 License
-    This project is free to use.
-    ```
+ This project is free to use and copy.<br>
+    happy coding😊
+    
